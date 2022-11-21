@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Made by Group G1",
+  "description": "Made by Aditya Rawal",
   "main": "app.js",
   "scripts": {
     "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Abhishek Kumar Mihir Raj Singh Sayan Dirghangi",
+  "author": "Aditya Rawal",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
