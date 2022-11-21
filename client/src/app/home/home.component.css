@@ -1,0 +1,36 @@
+.carousel-item img{
+  filter: brightness(80%);
+  transition: 1s ease-in-out;
+}
+.carousel-caption{
+  position: absolute;
+  justify-content: baseline;
+}
+.carousel-inner .carousel-item img:hover {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.3);
+  cursor: pointer;
+  filter: brightness(100%);
+
+}
+/* .heading{
+  font-family: 'Yatra One', cursive;
+}
+.heading ,.sub_head {
+  text-align: center;
+  margin: 20px;
+} */
+.carousel-inner{
+  transition: 1s ease-in-out;
+  margin-bottom: 0px;
+  image-rendering: crisp-edges;
+}
+#carousal{
+  width: 1350;
+  height: 900px; 
+  margin-bottom: 0px;
+}
+.sale-banner{
+  width: 100%;
+  height: 190px;
+}
