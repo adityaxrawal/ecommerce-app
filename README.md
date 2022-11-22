@@ -25,7 +25,7 @@ The project involves technologies like MEAN Stack development.
 
 •	After the installation of these commands, run `node app.js` to start the backend and the connection to the database.
 
-## Admin:
+## Client:
 
 •	To run the backend, 
   `Node app.js`
