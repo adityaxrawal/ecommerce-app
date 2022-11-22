@@ -38,7 +38,7 @@ The project involves technologies like MEAN Stack development.
 2.	`npm i @angular/animations`
 
 •	Then, run the command:
-                         `ng serve –project=”admin”`
+                         `npm start`
 
 •	Create category for different types of products.
 
