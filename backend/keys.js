@@ -1,4 +1,4 @@
-if(process.env.Port =='prodcution'){
+if(process.env.Port =='Prodcution'){
     module.exports = require('./prod.js')
 }
 else{

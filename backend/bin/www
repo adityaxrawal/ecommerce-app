@@ -2,7 +2,7 @@ const app = require('../app');
 const server = require ('../app')
 const Port = process.env.PORT || 3000; 
 
-if (process.env.Port == 'production' ){
+if (process.env.Port == 'Production' ){
     const path = require ('path');
 
     app.get('/', (req,res)=>{
