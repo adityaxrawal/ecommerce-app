@@ -1,4 +1,4 @@
-# Ecommerce Application - Décor
+# Ecommerce Application - Décor: <a href='https://ecom-decor.vercel.app/'>Live</a>
 
 The goal of this project is to create an interactive website that helps users buy and sell home décor products easily. 
 
